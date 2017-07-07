@@ -22,7 +22,7 @@ Description:
 ```
 
 
-这里有一个示例，用来演示整个过程：
+And there is an example to demonstrate the while process:
 
 ```
 git clone --depth=1 https://github.com/wangzhizhou/android-apk-viewer-script.git
